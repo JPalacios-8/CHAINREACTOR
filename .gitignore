@@ -1,0 +1,16 @@
+#Esto hará que Git ignore archivos temporales, carpetas generadas por Unity y archivos del sistema.
+
+# Carpetas innecesarias de Unity
+[Libraries]
+[Libraries*]
+/Logs/
+/Temp/
+/obj/
+/*.csproj
+/*.sln
+/*.userprefs
+
+# Archivos del sistema que no deben subirse
+.DS_Store
+Thumbs.db
+
