@@ -11,3 +11,5 @@ Un juego inspirado en Atomix, desarrollado en Unity
 
 - TRAER CAMBIOS -> fetch (actualizar) -> create pull request -> *se abre pagina de github* -> base: tuRama  compare:main
 -> poner titulo de solicitud de pull -> create pull request -> merge pull request -> confirm merge -> cerrar la pagina de git y seguir en la aplicacion desktop -> fetch -> pull origin -> abrir visual
+
+- MANDAR CAMBIOS -> push 
